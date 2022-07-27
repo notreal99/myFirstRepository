@@ -1,3 +1,5 @@
 This is myfile3.txt
 
+new line
+
 
