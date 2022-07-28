@@ -1,3 +1,6 @@
 This is myfile2.txt
 
 A new line added
+
+
+Another new line added locally
